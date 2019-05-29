@@ -1,0 +1,11 @@
+D:\Projekti\faks\Moji radovi\Upis_studenata_u_bazu\Upis_studenata_u_bazu\bin\Debug\Upis_studenata_u_bazu.exe.config
+D:\Projekti\faks\Moji radovi\Upis_studenata_u_bazu\Upis_studenata_u_bazu\bin\Debug\Upis_studenata_u_bazu.exe
+D:\Projekti\faks\Moji radovi\Upis_studenata_u_bazu\Upis_studenata_u_bazu\bin\Debug\Upis_studenata_u_bazu.pdb
+D:\Projekti\faks\Moji radovi\Upis_studenata_u_bazu\Upis_studenata_u_bazu\obj\Debug\Upis_studenata_u_bazu.Form1.resources
+D:\Projekti\faks\Moji radovi\Upis_studenata_u_bazu\Upis_studenata_u_bazu\obj\Debug\Upis_studenata_u_bazu.Form2.resources
+D:\Projekti\faks\Moji radovi\Upis_studenata_u_bazu\Upis_studenata_u_bazu\obj\Debug\Upis_studenata_u_bazu.Properties.Resources.resources
+D:\Projekti\faks\Moji radovi\Upis_studenata_u_bazu\Upis_studenata_u_bazu\obj\Debug\Upis_studenata_u_bazu.csproj.GenerateResource.Cache
+D:\Projekti\faks\Moji radovi\Upis_studenata_u_bazu\Upis_studenata_u_bazu\obj\Debug\Upis_studenata_u_bazu.exe
+D:\Projekti\faks\Moji radovi\Upis_studenata_u_bazu\Upis_studenata_u_bazu\obj\Debug\Upis_studenata_u_bazu.pdb
+D:\Projekti\faks\Moji radovi\Upis_studenata_u_bazu\Upis_studenata_u_bazu\obj\Debug\Upis_studenata_u_bazu.csproj.CoreCompileInputs.cache
+D:\Projekti\faks\Moji radovi\Upis_studenata_u_bazu\Upis_studenata_u_bazu\obj\Debug\Upis_studenata_u_bazu.csprojAssemblyReference.cache
